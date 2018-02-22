@@ -1,0 +1,8 @@
+com\pedia\qa\base\TestBase.class
+com\pedia\qa\pages\LoginPage.class
+com\pedia\qa\util\TsetUtil.class
+com\pedia\qa\pages\HomePage.class
+com\pedia\qa\pages\SignUp.class
+com\pedia\qa\pages\TaskPage.class
+com\pedia\qa\pages\ConatctsPage.class
+com\pedia\qa\pages\DealsPage.class
